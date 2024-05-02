@@ -109,3 +109,6 @@ ylabel('y');
 title('Numerical vs. Exact Solution (RK4, dt = 0.0001)');
 axis equal;
 axis square;
+
+% command for running simulation:
+% runSimulation(3, 50, 0.05, 10);
